@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FlowPreviewApplication</string>
+
+    <string name="catch_pokemon">Catch Pokemon</string>
+    <string name="release_all_pokemons">Release All</string>
+    <string name="pokemon_level">Level: %d</string>
+    <string name="pokemons_list_updated">Pokemons list is updated</string>
+</resources>
